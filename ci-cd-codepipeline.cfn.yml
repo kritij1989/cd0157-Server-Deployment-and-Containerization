@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: kriti jain
+    Default: kritij1989
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
